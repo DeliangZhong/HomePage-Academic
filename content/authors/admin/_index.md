@@ -18,8 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum integrable systems and scattering amplitudes.
-
+<!-- bio: My research interests include quantum integrable systems and scattering amplitudes.
+ -->
 interests:
 - Quantum Integrable Systems
 - Scattering Amplitudes
@@ -68,9 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+<!-- user_groups:
 - Researchers
 - Visitors
----
+--- -->
 
-Deliang is a PostDoc of theoretical physics at the Tel Aviv University. His research interests include ...
+<!-- Deliang is a PostDoc of theoretical physics at the Tel Aviv University. His research interests include ... -->
