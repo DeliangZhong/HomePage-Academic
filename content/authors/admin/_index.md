@@ -72,5 +72,3 @@ email: ""
 - Researchers
 - Visitors
 --- -->
-
-<!-- Deliang is a PostDoc of theoretical physics at the Tel Aviv University. His research interests include ... -->
