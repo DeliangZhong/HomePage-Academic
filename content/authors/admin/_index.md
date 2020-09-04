@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-<!-- bio: My research interests include quantum integrable systems and scattering amplitudes.
- -->
+
 interests:
 - Quantum Integrable Systems
 - Scattering Amplitudes
