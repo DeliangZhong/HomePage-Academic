@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include quantum integrable systems and scattering amplitudes.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum Integrable Systems
+- Scattering Amplitudes
+- String Theory
 
 education:
   courses:
@@ -51,7 +51,7 @@ social:
 #- icon: inspire
   icon_pack: ai
   link: https://inspirehep.net/authors/1510637?ui-citation-summary=true
-#- icon: google-scholar
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OtrfnmwAAAAJ&hl=en
 #- icon: github
