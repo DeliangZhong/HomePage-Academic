@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical Physics
-    institution: Sorbonne University, Paris, France
+    institution: LPTENS, Sorbonne University, Paris, France
     year: 2019
   - course: Msc in Theoretical Physics
     institution: Ecole Normale Superieure, Paris, France
