@@ -48,7 +48,7 @@ social:
 #- icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-#- icon: inspire
+- icon: inspire
   icon_pack: ai
   link: https://inspirehep.net/authors/1510637?ui-citation-summary=true
 - icon: google-scholar
