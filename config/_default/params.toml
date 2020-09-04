@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = false, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zdlzdlzdl AT gmail.com"
+email = "zdlzdlzdl@gmail.com"
 phone = "‭+972 586115969‬"
 
 # Address
